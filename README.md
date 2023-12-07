@@ -6,7 +6,7 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/shashankktiwariii/anikatsu-api.git
+git clone https://github.com/RRR-sudo/anikatsu-api
 cd anikatsu-api
 npm install 
 ```
